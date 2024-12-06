@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "ptle": "Work",
+        "descrippon": "erte",
+        "category": "Дом",
+        "due_date": "tere",
+        "priority": "Низкий",
+        "status": "Не Выполнена"
+    },
+    {
+        "id": 2,
+        "ptle": "Дом",
+        "descrippon": "Work",
+        "category": "Работа",
+        "due_date": "tere",
+        "priority": "Средний",
+        "status": "Выполнена"
+    },
+    {
+        "id": 3,
+        "ptle": "Магазин",
+        "descrippon": "Купить хлеб",
+        "category": "Дом",
+        "due_date": "20.12.2024",
+        "priority": "Высокий",
+        "status": "В работе"
+    }
+]
